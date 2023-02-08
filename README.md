@@ -1,6 +1,12 @@
-# wordle_clone
+# Wordle Clone (Word Game On Flutter)
 
-A new Flutter project.
+Word finder game I developed to test my experience with Flutter. I tried to develop a clone of the worldwide popular wordle application on the mobile platform.
+
+- [To Acceess Orginal Game](https://www.nytimes.com/games/wordle/index.html)
+
+
+I created an offline build that can be played over and over again with its animations. I set up a small-scale data with 5-letter words I found on the web-sources.
+
 
 ## Getting Started
 
